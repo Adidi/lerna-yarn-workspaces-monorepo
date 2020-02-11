@@ -1,6 +1,6 @@
 import styled, {css} from 'styled-components';
 import React from 'react';
-import {spacing} from 'theme';
+import {spacing} from '@adiel/theme';
 import PropTypes from 'prop-types';
 
 const APPEARANCES = {
